@@ -4,8 +4,8 @@
 module MatrixHelper
 
 export # extend Base.Sort functions to better support Matricies
-	premcols,
-	permrows,
+	sortpermcols,
+	sortpermrows,
 	selectpermcols,
 	selectpermrows
 
